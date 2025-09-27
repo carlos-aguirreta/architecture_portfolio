@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RESIDENCIA MJT | Carlos Aguirre</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Carlos Aguirre | Arquitecto</h1>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Volver a Proyectos</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section class="project-detail">
+            <div class="container">
+                <h2>PROYECTO: RESIDENCIA MJT</h2>
+                <p class="subtitle">Silao, Guanajuato | 2022</p>
+                
+                <img src="img/residencia-mjt-main.jpg" alt="Imagen principal de Residencia MJT" class="main-project-image">
+
+                <div class="detail-content">
+                    <h3>Concepto y Ubicación</h3>
+                    <p>
+                        [cite_start]Esta residencia se emplaza en la ciudad de Silao, Guanajuato[cite: 29]. [cite_start]El concepto fue diseñar una residencia tipo hacienda para albergar hasta 10 miembros de la familia[cite: 30].
+                    </p>
+
+                    <h3>Alcance del Proyecto</h3>
+                    <p>
+                        [cite_start]En este proyecto se desarrolló el diseño de plantas arquitectónicas, criterios estructurales, diseño de interiores, diseño de fachadas y landscape[cite: 31].
+                    </p>
+                    
+                    <div class="gallery">
+                        <img src="img/residencia-mjt-01.jpg" alt="Detalle del interior o jardín">
+                        <img src="img/residencia-mjt-02.jpg" alt="Detalle de la fachada">
+                    </div>
+
+                    <a href="index.html" class="btn back-btn">← Volver al Portafolio</a>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 Carlos Aguirre. Portafolio de Arquitectura.</p>
+        </div>
+    </footer>
+</body>
+</html>

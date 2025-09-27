@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MAR DE CORTES 25 | Carlos Aguirre</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Carlos Aguirre | Arquitecto</h1>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Volver a Proyectos</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section class="project-detail">
+            <div class="container">
+                <h2>PROYECTO: MAR DE CORTES 25</h2>
+                <p class="subtitle">Bahía de Kino, Sonora | 2020</p>
+                
+                <img src="img/mar-de-cortes-main.jpg" alt="Imagen principal del proyecto Mar de Cortés 25" class="main-project-image">
+
+                <div class="detail-content">
+                    <h3>Concepto y Ubicación</h3>
+                    <p>
+                        [cite_start]Este proyecto residencial está ubicado en la playa de Bahía de Kino, Sonora[cite: 22].
+                        [cite_start]El diseño gira en torno a la palapa en el rooftop y el ventanal en 45 grados en la recámara principal[cite: 23].
+                    </p>
+
+                    <h3>Alcance del Proyecto</h3>
+                    <p>
+                        [cite_start]En este proyecto se realizó el diseño de fachadas, diseño de interiores, el diseño de la planta arquitectónica y los criterios de diseño estructural[cite: 24].
+                    </p>
+                    
+                    <div class="gallery">
+                        <img src="img/mar-de-cortes-01.jpg" alt="Detalle del ventanal">
+                        <img src="img/mar-de-cortes-02.jpg" alt="Vista del rooftop">
+                    </div>
+
+                    <a href="index.html" class="btn back-btn">← Volver al Portafolio</a>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 Carlos Aguirre. Portafolio de Arquitectura.</p>
+        </div>
+    </footer>
+</body>
+</html>

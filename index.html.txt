@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portafolio de Arquitectura | Carlos Aguirre</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Carlos Aguirre | Arquitecto</h1>
+            <nav>
+                <ul>
+                    <li><a href="#proyectos">Proyectos</a></li>
+                    </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section id="intro" class="intro">
+            <div class="container">
+                <h2>Portafolio de Arquitectura 2025</h2>
+                <p>Explora una selección de mis proyectos residenciales y de oficinas, enfocados en el diseño funcional y la integración contextual.</p>
+            </div>
+        </section>
+
+        <section id="proyectos" class="projects">
+            <div class="container">
+                <h2>Proyectos Destacados</h2>
+                <div class="project-grid">
+
+                    <div class="project-card">
+                        <img src="img/mar-de-cortes.jpg" alt="Fachada de Mar de Cortés 25">
+                        <h3>MAR DE CORTES 25</h3>
+                        <p>Proyecto residencial ubicado en Bahía de Kino, Sonora (2020). Diseño de fachadas, interiores y planta arquitectónica.</p>
+                        <a href="mar_de_cortes.html" class="btn">Ver proyecto</a>
+                    </div>
+
+                    <div class="project-card">
+                        <img src="img/residencia-mjt.jpg" alt="Fachada de Residencia MJT">
+                        <h3>RESIDENCIA MJT</h3>
+                        <p>Residencia en Silao, Guanajuato (2022). Concepto de hacienda para 10 miembros. Incluye landscape y diseño estructural.</p>
+                        <a href="residencia_mjt.html" class="btn">Ver proyecto</a>
+                    </div>
+
+                    <div class="project-card">
+                        <img src="img/oficinas-amtec.jpg" alt="Fachada de Oficinas AMTEC">
+                        <h3>OFICINAS AMTEC</h3>
+                        <p>Edificio en Hermosillo, Sonora (2021) con locales de oficina y departamentos de renta. Diseño arquitectónico y estructural.</p>
+                        <a href="oficinas_amtec.html" class="btn">Ver proyecto</a>
+                    </div>
+                    
+                    <div class="project-card">
+                        <img src="img/casa-de-maria.jpg" alt="Exterior de Casa de María">
+                        <h3>CASA DE MARÍA</h3>
+                        <p>Casa de campo en Pueblo Dorado, Hermosillo, Sonora (2022). Centrada en la interacción con el exterior y el campo.</p>
+                        <a href="casa_de_maria.html" class="btn">Ver proyecto</a>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 Carlos Aguirre. Portafolio de Arquitectura.</p>
+        </div>
+    </footer>
+</body>
+</html>

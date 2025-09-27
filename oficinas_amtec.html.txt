@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OFICINAS AMTEC | Carlos Aguirre</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Carlos Aguirre | Arquitecto</h1>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Volver a Proyectos</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section class="project-detail">
+            <div class="container">
+                <h2>PROYECTO: OFICINAS AMTEC</h2>
+                <p class="subtitle">Hermosillo, Sonora | 2021</p>
+                
+                <img src="img/oficinas-amtec-main.jpg" alt="Imagen principal de Oficinas AMTEC" class="main-project-image">
+
+                <div class="detail-content">
+                    <h3>Concepto y Ubicación</h3>
+                    <p>
+                        [cite_start]Este edificio se ubica en Hermosillo, Sonora[cite: 34]. [cite_start]El diseño se hizo con base en una construcción existente de un solo nivel[cite: 35]. [cite_start]El edificio cuenta con dos locales para renta de oficinas en planta baja y dos departamentos de renta en planta alta[cite: 34].
+                    </p>
+                    <p>
+                        [cite_start]Para hacer la propuesta arquitectónica fue necesario un estudio previo con un estructurista para el diseño de las columnas y trabes[cite: 36].
+                    </p>
+
+                    <h3>Alcance del Proyecto</h3>
+                    <p>
+                        [cite_start]Este proyecto abarca diseño arquitectónico y estructural[cite: 37].
+                    </p>
+                    
+                    <div class="gallery">
+                        <img src="img/oficinas-amtec-01.jpg" alt="Detalle de la fachada con vegetación">
+                        <img src="img/oficinas-amtec-02.jpg" alt="Vista del área de oficinas o departamentos">
+                    </div>
+
+                    <a href="index.html" class="btn back-btn">← Volver al Portafolio</a>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 Carlos Aguirre. Portafolio de Arquitectura.</p>
+        </div>
+    </footer>
+</body>
+</html>
